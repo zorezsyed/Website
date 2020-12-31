@@ -1,0 +1,4 @@
+name = 'snape'
+age = input("How old are you? ")
+wizard_age_multiplier = '56'
+final_age = age * wizard_age_multiplier
